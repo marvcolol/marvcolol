@@ -7,7 +7,8 @@
     </p>
   </a>
 
-  <h4 align="center">My Languages:</h4>
+  <h4 align="center">Current Languages</h4>
+  <br>
   <p align="center">
     <code><img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
     <code><img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png"></code>
