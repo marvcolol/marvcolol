@@ -9,10 +9,9 @@
 
   <h4 align="center">My Languages:</h4>
   <p align="center">
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-    <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Programmer_icon.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-    <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Batch_file_icon.svg"></code>
+    <code><img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+    <code><img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png"></code>
+    <code><img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   </p>
 
   ---
