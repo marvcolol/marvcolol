@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm marvco 👋
 
-<!--
-**marvcolol/marvcolol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Python     | ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
+| Lua        | ![Lua](https://upload.wikimedia.org/wikipedia/commons/7/73/Lua-logo.svg) |
+| Batch      | ![Batch](https://upload.wikimedia.org/wikipedia/commons/1/1e/Batch_file_icon.svg) |
+| HTML       | ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) |
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+- [X/Twitter](https://x.com/user14831260773)
+- [Discord](https://discord.com/users/1164692424522735616)
+
+Feel free to explore my repositories and contribute to any of my open-source projects!
