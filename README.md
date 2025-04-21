@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+hate+Roblox+skids" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Da+Hood+Demon" alt="Typing SVG" />
   </a>
   <a href="https://github.com/marvcolol">
     <p align="center">
